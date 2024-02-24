@@ -7,7 +7,7 @@
 | [JSON Concrete Syntax Validator](#json-concrete-syntax-validator) |
 | [Evaluation of Model Transformations](#evaluation-of-model-transformations) |
 | [Demo Tool for Model Interoperability between SWfMS](#demo-tool-for-model-interoperability-between-swfms) |
-| [Experimentation - Survey](#experimentation-survey) |
+| [Experimentation - Survey](#experimentation---survey) |
 
 ## Abstract
 
