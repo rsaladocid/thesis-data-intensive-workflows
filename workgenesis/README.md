@@ -3,13 +3,13 @@
 | _Table of contents_   |
 |-----------------------|
 | [Abstract](#abstract)   |
-| [Architecture description](#architecture-description)   |
+| [Architecture Description](#architecture-description)   |
 | [Domain-Agnostic and Customizable SWfMS](#domain-agnostic-and-customizable-swfms) |
 | [Tool for Defining and Generating Domain-Specific SWfMS](#tool-for-defining-and-generating-domain-specific-swfms) |
 
 ## Abstract
 
-## Architecture description
+## Architecture Description
 
 ![Architecture of Workgenesis](https://github.com/rsaladocid/thesis-data-intensive-workflows/assets/1663767/3b5bff93-0182-475f-a799-ecc1e83636f6)
 
