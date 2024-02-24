@@ -62,4 +62,6 @@ Workgenesis provides a specialized SWfMS generator tool, aimed at data science e
 
 To generate these domain-specific SWfMS, the data scientist does not need to possess software development knowledge, as they have high-level functionalities that allow them to define aspects related to the visual appearance of the tool, the available elements for creating DIW in the application domain, or the target execution environment. This not only reduces costs and time-to-market for new data-intensive tools but also enables the data science expert to focus on domain logic without worrying about the technical details of software development.
 
+![image](https://github.com/rsaladocid/thesis-data-intensive-workflows/assets/1663767/cf6caedf-d91d-40ec-b3f1-64ba45afed8a)
+
 - Download ([Windows](https://drive.google.com/file/d/1anvKR35HJJQYXeuw3cA3wZDDFnw67Dvk/view?usp=sharing), [Linux](https://drive.google.com/file/d/1z5tHuLI8ORB825jZXbqFGkqn3DVWDR-n/view?usp=sharing), [MacOS](https://drive.google.com/file/d/1Sl7wGKdCStCqm6QHL6KCIZ2iypiZTEVz/view?usp=sharing))
