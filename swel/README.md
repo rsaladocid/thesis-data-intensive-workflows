@@ -88,7 +88,7 @@ _Diagram: ConfigBeans-related elements_
 
 A demo tool has been developed to illustrate the complete transformation horseshoe process to enable interoperability between different WfMS. Currently, this tool supports both SCUFL and CWL workflows as input, in order to generate MoML workflows. During the transformation process, the output of each model transformation (text-to-model, model-to-model and model-to-text) is shown in the UI and stored in the local directory chosen by the user.
 
-- Download demo tool ([Runnable JAR](https://drive.google.com/file/d/1sgFzYweiZOkFqd3L8zpgDUa6Zi3LcpmK/view?usp=drive_link))
+- Download demo tool ([Runnable JAR](./swel_demo_tool_jar.zip))
 - How To Use it:
 ```
 java -jar demo-tool.jar
