@@ -15,7 +15,7 @@ SWEL is a domain-specific modelling workflow language for defining data-intensiv
 
 ## SWEL Technical Report
 
-This [technical report](https://drive.google.com/file/d/1DLMfqk2X4f2SCt0PvPl1jhBjmLZ_bezk/view?usp=sharing) defines the formal specification of SWEL (Scientific Workflow Execution Language) in terms of its meta-models and constraints, making this definition syntax-independent, according to the precepts of model-driven engineering. 
+This [technical report](./swel_technical_report.pdf) defines the formal specification of SWEL (Scientific Workflow Execution Language) in terms of its meta-models and constraints, making this definition syntax-independent, according to the precepts of model-driven engineering. 
 
 ## Tool Support
 
