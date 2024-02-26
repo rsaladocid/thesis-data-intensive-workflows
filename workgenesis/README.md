@@ -27,7 +27,7 @@ The data science expert has two options for modeling this logic: they can either
 
 This SWfMS contains all the algorithms previously registered by the data science expert and is primarily composed of two typical components of any WfMS: the design environment and the execution engine.
 
-- Download ([Windows](https://drive.google.com/file/d/1swdFSQbOz_dRTyDtN_RXrJZagD6TZ5Oc/view?usp=sharing), [Linux](https://drive.google.com/file/d/1CuyrsNrQpE2PvymFEokfnEDKJ01zU4fQ/view?usp=sharing), [MacOS](https://drive.google.com/file/d/1DYq0ESKeXPG_vJ7t7kdZz6S-5VaDTRHq/view?usp=sharing))
+- Download ([Windows](./workgenesis_swfms_win32.win32.x86_64, [Linux](./workgenesis_swfms_linux.gtk.x86_64.zip), [MacOS](./workgenesis_swfms_macosx.cocoa.x86_64.zip))
 
 ### Demos
 
