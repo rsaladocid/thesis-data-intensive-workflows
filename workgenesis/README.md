@@ -64,4 +64,4 @@ To generate these domain-specific SWfMS, the data scientist does not need to pos
 
 ![image](https://github.com/rsaladocid/thesis-data-intensive-workflows/assets/1663767/cf6caedf-d91d-40ec-b3f1-64ba45afed8a)
 
-- Download ([Windows](https://drive.google.com/file/d/1anvKR35HJJQYXeuw3cA3wZDDFnw67Dvk/view?usp=sharing), [Linux](https://drive.google.com/file/d/1z5tHuLI8ORB825jZXbqFGkqn3DVWDR-n/view?usp=sharing), [MacOS](https://drive.google.com/file/d/1Sl7wGKdCStCqm6QHL6KCIZ2iypiZTEVz/view?usp=sharing))
+- Download ([Windows](https://drive.google.com/file/d/1anvKR35HJJQYXeuw3cA3wZDDFnw67Dvk/view?usp=sharing))
