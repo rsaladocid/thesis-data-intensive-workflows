@@ -25,7 +25,7 @@ There is a large amount of business logic that is often common and can be used i
 
 The data science expert has two options for modeling this logic: they can either do it through a programming language and create the code that meets the specific requirements, or they can use a generic and adaptable SWfMS that allows them to do it through visual programming. The latter option involves using a graphical editor that includes the previously defined algorithms and services, thus facilitating the definition of business logic in the form of DIW.
 
-This SWfMS contains all the algorithms previously registered by the data science expert and is primarily composed of two typical components of any \ac{WfMS}: the design environment and the execution engine.
+This SWfMS contains all the algorithms previously registered by the data science expert and is primarily composed of two typical components of any WfMS: the design environment and the execution engine.
 
 - Download ([Windows](https://drive.google.com/file/d/1swdFSQbOz_dRTyDtN_RXrJZagD6TZ5Oc/view?usp=sharing), [Linux](https://drive.google.com/file/d/1CuyrsNrQpE2PvymFEokfnEDKJ01zU4fQ/view?usp=sharing), [MacOS](https://drive.google.com/file/d/1DYq0ESKeXPG_vJ7t7kdZz6S-5VaDTRHq/view?usp=sharing))
 
